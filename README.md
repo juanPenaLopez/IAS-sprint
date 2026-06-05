@@ -149,7 +149,7 @@ src/app/
 
 - Persistir filtros del dashboard en `sessionStorage` mediante un `effect` justificado.
 - Añadir un guard funcional que valide la existencia de la tarea antes de editar.
-- Incorporar pruebas e2e con Playwright para flujos completos de navegación.
+- Incorporar pruebas e2e para flujos completos de navegación.
 - Internacionalización (i18n) de etiquetas, estados y mensajes de error.
 - Paginación, ordenamiento y búsqueda avanzada en el listado.
 - Modo oscuro y refinamiento responsive en tablas y formularios.
